@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, Callback
 import logging
 
 # ---------------- تنظیمات ----------------
-TOKEN = 8437778241:AAGDCdKLvzv5bq_nOq8kJgiuG0bCyUZz1fs
+TOKEN = TOKEN = "8437778241:AAGDCdKLvzv5bq_nOq8kJgiuG0bCyUZz1fs"
 CHANNEL_USERNAME = "@nilo_1313"   # آیدی کانال
 YOUTUBE_LINK = "https://www.youtube.com/@drYouTube18"
 VIDEO_FILE_ID = "BAACAgQAAxkBAAECuopouWVUJtfMpcsmetdNqNPVz9REhQAC5gsAAjv7cFGU6qYqULI0MjYE"
